@@ -1,3 +1,3 @@
-## Küresel Isınma 
-# fikir
+# Küresel Isınma 
+## fikir
 >ilk madde
