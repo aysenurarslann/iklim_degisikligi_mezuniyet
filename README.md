@@ -1,3 +1,4 @@
 # Küresel Isınma 
-## fikir
->ilk madde
+## Ağaç Takipçisi
+>Uydu görüntüleriyle oramanların kesilip kesilmediğini gösteren bir program.
+
